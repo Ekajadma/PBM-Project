@@ -9,10 +9,6 @@ Aplikasi ini berfungsi untuk **menampilkan cuaca saat ini dan ramalan cuaca 5 ha
 - Ramalan cuaca 5 hari ke depan dengan informasi suhu minimum & maksimum dan kondisi cuaca.   
 - Tampilan UI sederhana dan interaktif.
 
-## Screenshot / Demo
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)  
-
 ## Teknologi yang Digunakan
 - **Flutter & Dart**  
 - **API Cuaca** (OpenWeatherMap)  
